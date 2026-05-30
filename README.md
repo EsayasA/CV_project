@@ -13,6 +13,24 @@ It leverages a powerful pipeline of state-of-the-art vision models:
 * **Interactive UI:** Built with Gradio for a simple, intuitive web interface.
 * **Cross-Platform Acceleration:** Automatically detects and utilizes CUDA (Nvidia), MPS (Apple Silicon), or CPU.
 
+
+## 🎬 Demo
+
+A complete demonstration of the project, including image localization, segmentation results, and video object tracking, can be found at the link below:
+
+🔗 **Demo Video:** [https://drive.google.com/file/d/1-HxWd76x4vTRF-dq6ylKg8cLTv-UbE0C/view?usp=sharing]
+
+
+
+Example queries include:
+
+* "a dog and a cat"
+* "a white puppy"
+* "puppies and trees"
+
+The video demonstrates the full pipeline from text query to detection, segmentation, and temporal tracking across video frames.
+
+
 ## 🛠️ Prerequisites
 * Python 3.10 or higher recommended.
 * Git installed on your machine.

@@ -13,6 +13,17 @@ It leverages a powerful pipeline of state-of-the-art vision models:
 * **Interactive UI:** Built with Gradio for a simple, intuitive web interface.
 * **Cross-Platform Acceleration:** Automatically detects and utilizes CUDA (Nvidia), MPS (Apple Silicon), or CPU.
 
+## Screenshots
+
+### Image Detection & Segmentation
+
+![Image Detection](screenshots/dog_cat.png)
+
+### Multiple Object Detection
+
+![Multiple Objects](screenshots/chair_sofa_floor.png)
+
+
 
 ## 🎬 Demo
 
